@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: yxz2333的博客
+title: ashesofhean的博客
 subtitle: '卡片风格的图文博客'
 description: '记录技术、生活与思考'
 keywords: '博客,技术,前端,生活'
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yxz2333.github.io
+url: https://ashesofhean.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,5 +102,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:yxz2333/yxz2333.github.io.git
+  repo: git@github.com:ashesofhean/ashesofhean.github.io.git
   branch: main

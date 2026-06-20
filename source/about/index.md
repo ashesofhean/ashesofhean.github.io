@@ -5,7 +5,7 @@ date: 2026-06-20 23:13:27
 
 ## 关于我
 
-你好！我是 **yxz2333** 👋
+你好！我是 **ashesofhean** 👋
 
 一名热爱技术的开发者，喜欢探索前沿技术和开源世界。
 
@@ -19,4 +19,4 @@ date: 2026-06-20 23:13:27
 
 ### 联系方式
 
-- GitHub: [@yxz2333](https://github.com/yxz2333)
+- GitHub: [@ashesofhean](https://github.com/ashesofhean)
